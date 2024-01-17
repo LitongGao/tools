@@ -1,0 +1,8 @@
+psutil
+pypiwin32
+selenium
+Appium-Python-Client
+func_timeout
+matplotlib
+pandas
+influxdb
